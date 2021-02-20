@@ -3,7 +3,7 @@
 // 그 다음 라우트를 할 page를 src/pages에 생성합니다
 // 생성한 page를 import 해옵니다
 import React from 'react';
-import React, { Redirect } from 'react-router';
+import { Redirect } from 'react-router';
 
 import Home from '../pages/home.jsx';
 import About from '../pages/about.jsx';
