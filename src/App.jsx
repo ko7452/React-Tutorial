@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+// App.jsx는 javaScript 확장자 버전
 
 function App() {
   return (
