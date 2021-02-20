@@ -3,7 +3,6 @@ import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 
 import routes from '../../config/page-route.jsx';
-import Contact from '../../pages/contact.jsx';
 
 class Content extends React.Component {
   render() {
